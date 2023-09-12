@@ -4,7 +4,7 @@
 
 ### [简体中文](https://github.com/hackintosh-club/JINGYUE-X99M-PLUS-D4-OpenCore)
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 

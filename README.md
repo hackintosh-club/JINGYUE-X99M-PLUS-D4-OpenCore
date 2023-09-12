@@ -4,7 +4,7 @@
 
 ### [ENGLISH](README.en.md)
 
-[OpenCore 0.9.4](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 0.9.5](https://github.com/acidanthera/OpenCorePkg)
 
 ### macOS
 
