@@ -9,7 +9,8 @@
 ### OS Version Tested
 
 - macOS Monterey 12.x
-- macOS Ventura  13.x 
+- macOS Ventura  13.x
+- macOS Sonoma 14.x
 
 ### Hardware
 
