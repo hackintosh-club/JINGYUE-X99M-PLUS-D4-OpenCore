@@ -31,34 +31,35 @@
 ### Bios Setup
 
 ```
-Advanced
-        |-- ACPI Settings
-	         |-- Enable ACPI Auto Configuration : Enabled
+
+   Advanced
+    |-- ACPI Settings
+	    |-- Enable ACPI Auto Configuration : Enabled
 	         
-	      |-- NCT5532D SSIO Configuration   
+	    |-- NCT5532D SSIO Configuration   
 	         |-- Serial Port 1 Configration
 	             |-- Serial Port : Disabled
 	             
-	      |-- CSM Configuration
+	    |-- CSM Configuration
 	         |-- Video : UEFI
-           |-- CSM Support : Disabled
+             |-- CSM Support : Disabled
            
         |-- USB Configuration
-           |-- XHCI Hand-off : Enabled
-           |-- EHCI Hand-off : Enabled
+             |-- XHCI Hand-off : Enabled
+             |-- EHCI Hand-off : Enabled
            
    IntelRCSetup
         |-- PCH Configuration
-           |-- PCH SATA Configuration
+             |-- PCH SATA Configuration
                 |-- SATA Controller : Enabled
                 |-- Configure SATA as : AHCI
    Security
-         |-- Secure Boot menu
-           |-- Secure boot : Disabled
+        |-- Secure Boot menu
+             |-- Secure boot : Disabled
         
    Boot
-         |-- Fast Boot : Disabled
-         |-- Quiet Boot : Disabled
+        |-- Fast Boot : Disabled
+        |-- Quiet Boot : Disabled
 ```
 
 ### Contact Us
