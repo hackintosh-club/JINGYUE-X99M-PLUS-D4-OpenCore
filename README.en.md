@@ -4,13 +4,14 @@
 
 ### [简体中文](https://github.com/hackintosh-club/JINGYUE-X99M-PLUS-D4-OpenCore)
 
-[OpenCore 0.9.7](https://github.com/acidanthera/OpenCorePkg)
+[OpenCore 1.0.3](https://github.com/acidanthera/OpenCorePkg)
 
 ### OS Version Tested
 
-- macOS Monterey 12.x
-- macOS Ventura  13.x
-- macOS Sonoma 14.x
+- macOS Monterey  12.x
+- macOS Ventura     13.x
+- macOS Sonoma    14.x
+- macOS Sequoia    15.x
 
 ### Hardware
 
